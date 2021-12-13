@@ -16,7 +16,7 @@
 1. Install dependencies.
 1. Fulfill the listed requirements.
 
-Please turn in your submission as a **new pull request** by 9am on Monday.
+Please turn in your submission as a **new pull request** by 9am on Tuesday.
 
 ## Requirements
 
